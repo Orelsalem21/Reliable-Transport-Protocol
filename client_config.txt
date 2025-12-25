@@ -1,0 +1,5 @@
+# Client configuration
+message: message.txt
+window_size: 4
+timeout: 5
+dynamic message size: false

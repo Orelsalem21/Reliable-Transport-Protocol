@@ -1,0 +1,5 @@
+# Server configuration
+maximum message size: 400
+window_size: 4
+timeout: 5
+dynamic message size: false

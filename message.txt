@@ -1,0 +1,21 @@
+This is a test message for the Transport Layer assignment.
+
+The purpose of this file is to verify that the reliable protocol implementation
+correctly performs segmentation, sliding window transmission, cumulative ACKs,
+timeout handling, and retransmissions.
+
+This message is intentionally long enough to exceed the maximum message size
+and to require multiple transmission windows.
+
+
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
+
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
+
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
+Orel salem test Orel salem test Orel salem test Orel salem test Orel salem test
